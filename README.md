@@ -1,1 +1,1 @@
-# Sql-project-on-library
+# Library management is a project that manages and stores books according to student needs.This will help to track their required books that are available in the library.it will useful for colleges to keep continuous check on books issued and returned .  
